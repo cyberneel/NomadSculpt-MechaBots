@@ -1,2 +1,2 @@
-# NomadSculpt-MechaBots
-A repository for my Mecha sculpts on Nomad Sculpt
+# NomadSculpt-Projects
+A repository for my sculpts on Nomad Sculpt
